@@ -46,7 +46,7 @@ Copy the generated out.uf2 file to the Pico’s storage.
 ## Usage
 Connect the Hardware:
 
-Connect the seven-segment display to the Raspberry Pi Pico as per the pinout defined in attached pdf.
+Connect the seven-segment display to the Raspberry Pi Pico as per the pinout defined in attached setup and use.pdf.
 
 Connect the push button to GPIO 16 (Pin 21).
 - Run the Program:
